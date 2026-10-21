@@ -1,5 +1,4 @@
-# DSA-Lab-AY2026-27-SEA15
-DSA Laboratory Practicals - AY 2026-27
+
 GitHub Repository for DSA Laboratory A.Y. 2026–27
 Student Name: Kaveri Santosh Sarate
 Roll Number: SEA15
